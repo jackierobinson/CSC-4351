@@ -1,0 +1,6 @@
+Elbis Bolton
+Alejandro Menocal
+
+We think everything should be working fine. We tried Unclosed Comments and Unclosed Strings and printed an error message. 
+For comments with did a state and started a comment count. We had another state for escape characters, strings, and ignored strings.
+Finally using YYINITIAL we handled all other characters and reserved strings in Tiger.   
