@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="Types.NIL"/>
+<fullyQualifiedTypeName name="Types.INT"/>
+<fullyQualifiedTypeName name="Types.STRING"/>
+<fullyQualifiedTypeName name="java.util.Hashtable"/>
+<fullyQualifiedTypeName name="Absyn.FunctionDec"/>
+<fullyQualifiedTypeName name="Semant.ExpTy"/>
+<fullyQualifiedTypeName name="Absyn.FieldList"/>
+<fullyQualifiedTypeName name="Absyn.VarDec"/>
+<fullyQualifiedTypeName name="Absyn.TypeDec"/>
+<fullyQualifiedTypeName name="Types.RECORD"/>
+<fullyQualifiedTypeName name="Types.NAME"/>
+<fullyQualifiedTypeName name="Types.ARRAY"/>
+</qualifiedTypeNameHistroy>
